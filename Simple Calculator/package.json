@@ -1,0 +1,23 @@
+{
+  "name": "n8ka3-simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with Typescript, Nodejs and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "n8ka1-simple-calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arishah",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "typescript": "^5.4.3"
+  },
+  "keywords": []
+}
